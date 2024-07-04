@@ -1,7 +1,5 @@
 package practise;
 
-import javafx.stage.StageStyle;
-
 public class MethodsOFStrings {
     public static void main(String[] args) {
      String str =  "Yash" ;
@@ -9,7 +7,7 @@ public class MethodsOFStrings {
      System.out.println("small leters " + str.toLowerCase());
      System.out.println("big leters" + str.toUpperCase());
      System.out.println("name" + str.trim());
-     System.out.println( str.Substring));
+    // System.out.println( str.substring));
      System.out.println(str);
     }
 
