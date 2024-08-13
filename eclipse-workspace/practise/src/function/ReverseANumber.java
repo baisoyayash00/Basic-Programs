@@ -10,6 +10,9 @@ public class ReverseANumber {
             int d=num%10;
            // System.out.println(d);
             sum=sum*10+d;
+           
+           
+           
             System.out.println(sum);
             
             num=num/10;
