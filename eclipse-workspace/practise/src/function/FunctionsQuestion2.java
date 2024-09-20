@@ -22,7 +22,7 @@ public class FunctionsQuestion2 {
         int num1=25;
         int num2=29;
 System.out.println(obj.check(num1, num2));
-    System.out.println(obj.check(num2))  ;  
+    System.out.println(obj.check(num1))  ;  
     }
 
 }

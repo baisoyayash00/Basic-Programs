@@ -1,3 +1,12 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.configuration.runtimes": [
+
+
+        
+
+    ],
+    "jdk.format.settingsPath": "C:/Users/Vin Bhati/Desktop/java/jdk/openlogic-openjdk-21.0.4+7-windows-x64 (1)/openlogic-openjdk-21.0.4+7-windows-x64",
+    "jdk.jdkhome": "C:/Users/Vin Bhati/Desktop/java/jdk/openlogic-openjdk-21.0.4+7-windows-x64 (1)/openlogic-openjdk-21.0.4+7-windows-x64"
+
 }

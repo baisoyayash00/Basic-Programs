@@ -4,12 +4,9 @@ public class Check5Multiple {
     String check(int num)
     {
         if(num%5==0)
+        {     
         return "multipleof5";
-    {
-      
-    }
-
-        
+    }   
         return "not a multiple of 5";
     }
   

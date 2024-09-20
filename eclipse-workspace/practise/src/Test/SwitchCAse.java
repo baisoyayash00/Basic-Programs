@@ -4,7 +4,11 @@ public class SwitchCAse {
     public static void main(String[] args) {
         for(int i=0; i<=12; i++)
        {
+    
+       
 switch(i){
+
+
 case 0:
 System.out.println("january");
 break;
@@ -42,6 +46,9 @@ case 11:
 System.out.println("december");
 break;
 }
+
+
+
        
     }
 

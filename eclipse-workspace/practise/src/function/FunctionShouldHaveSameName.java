@@ -19,7 +19,7 @@ if(num%i==0)
     }
     if(count==2)
     {
-        return 1;
+        return 1 ;
     }
     return 0;
 }
