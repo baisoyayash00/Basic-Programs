@@ -8,5 +8,4 @@ public class CheckAverage {
         System.out.println(arr[i]);
        }
     }
-
 }
